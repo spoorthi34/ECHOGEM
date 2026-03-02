@@ -182,9 +182,7 @@ If you use EchoGem in research, please cite:
   journal = {Google Summer of Code 2025},
   url = {https://github.com/aryansaboo/echogem}
 }
-```
 
----
 
 ## 💻 Installation & Usage
 
