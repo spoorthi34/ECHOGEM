@@ -216,9 +216,7 @@ print(ans.answer)
 echogem process --transcript transcript.txt --persist
 echogem query --question "Key takeaways?"
 echogem graph
-```
 
----
 
 ## 📄 License & Attribution
 
