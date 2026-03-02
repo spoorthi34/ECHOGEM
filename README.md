@@ -13,7 +13,7 @@ A Google DeepMind GSoC 2025 Project | Powered by Google Gemini AI | Built with P
 **Email:** [aryansaboo2005@gmail.com](aryansaboo2005@gmail.com)
 **Duration:** May 2025 – September 2025
 
----
+
 
 ## 📖 GSoC 2025: Project Goals & Problem Statement
 
