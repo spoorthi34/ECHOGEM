@@ -235,7 +235,4 @@ Acknowledgments:
 * Gemini Team for API access
 * Open Source Community for embeddings, Pinecone, and pygame
 
----
 
-🌟 **GSoC 2025 Success Story** 🌟
-From research proposal to **production-ready PyPI package**, EchoGem makes **long-context retrieval practical, efficient, and transparent**.
